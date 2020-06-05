@@ -11,7 +11,7 @@ constantly==15.1.0
 daphne==1.2.0
 decorator==4.0.11
 dj-database-url==0.4.2
-Django==1.11
+Django==1.11.29
 django-cors-headers==2.0.2
 djangorestframework==3.6.2
 djangorestframework-jwt==1.10.0
